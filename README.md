@@ -20,6 +20,8 @@ My code contributions to the team's interactive company and industry-chain resea
 
 Implementation: [Pixel World and workshop layer](https://github.com/Lzhtommy/Jiheng/commit/501e55671a07f65212b6b81872d8a2e508f5555b) · [Cell-city evidence gameplay](https://github.com/Lzhtommy/Jiheng/commit/8ab7230a126244dd6934eaee7c3c9935ffdad2e1)
 
+These contributions were committed from my other GitHub account, [@dream-oc](https://github.com/dream-oc).
+
 ### [PlaudStudy](https://github.com/zrchen-ops/plaudstudy)
 
 An AI study workflow for traceable, timestamp-grounded answers from recorded audio.
